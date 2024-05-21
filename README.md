@@ -4,9 +4,15 @@
 
 ### Hey there 👋
 
-## About Me
-- I am a Technology Enthusiast
-- I'm currently learning AI/ML...
+# 💫 About Me:
+🔭 I’m currently working on Security<br>👯 I’m looking to collaborate on ML Projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Security<br>⚡ Combined Author: https://amzn.in/d/9CQjNxn  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tajamul Sheeraz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tajamul Sheeraz&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tajamul Sheeraz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 
