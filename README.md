@@ -30,3 +30,7 @@
 [![](https://visitcount.itsvg.in/api?id=Tajamul Sheeraz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TJ&label=Profile%20Views&pretty=true" />
+</a>
